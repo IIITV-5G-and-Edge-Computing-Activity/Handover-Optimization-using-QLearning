@@ -10,6 +10,9 @@ Additionally, the project includes a separate Q-Learning implementation (`Q_lear
 > <br>
 > <br>
 > Report PDF File: [Click here](Gr29EC431_Handover_Optimization_in_5G_Networks_Using_Q_Learning.pdf)
+> <br>
+> <br>
+> Brief Project Description: [Click here](Gr29EC431_Brief_Project_Description_Recording.mp3)
 > 
 <br>
 
