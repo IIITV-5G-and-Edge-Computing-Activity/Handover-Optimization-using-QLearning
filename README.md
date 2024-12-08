@@ -6,7 +6,7 @@ Additionally, the project includes a separate Q-Learning implementation (`Q_lear
 
 <br>
 
-> Associated Video Link: [Click here](https://github.com/notsanidhyak)
+> Associated Video Link: [Click here](https://youtu.be/wCoyhqpwW5o)
 > <br>
 > <br>
 > Report PDF File: [Click here](https://github.com/notsanidhyak)
