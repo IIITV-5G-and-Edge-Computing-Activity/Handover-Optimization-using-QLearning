@@ -1,12 +1,25 @@
-# **Handover Optimization in 5G Networks Using Q-Learning**
+# **Handover Optimization in 5G Networks Using Q-Learning 🛜**
 
 This project addresses the challenge of optimizing handover management in 5G networks using Q-Learning, a reinforcement learning technique. In a 5G network, efficient handover management is crucial for ensuring low latency, high throughput, and seamless connectivity. This project models a dynamic grid-based system where an agent learns to navigate and minimize penalties (handover failures) while maximizing the quality of service (QoS) metrics.
 
 Additionally, the project includes a separate Q-Learning implementation (`Q_learning.py`) to benchmark and compare the handover optimization results with classical reinforcement learning tasks, demonstrating the model's versatility and effectiveness.
 
----
+<br>
 
-## **Table of Contents**
+> Associated Video Link: [Click here](https://github.com/notsanidhyak)
+> <br>
+> <br>
+> Report PDF File: [Click here](https://github.com/notsanidhyak)
+> 
+<br>
+
+🧾 **Course:** EC431 - 5G Communication and Network
+
+👤 **Faculty:** Dr. Bhupendra Kumar
+
+<br>
+
+## **📚 Table of Contents**
 
 1. [Overview](#overview)  
 2. [Project Structure](#project-structure)  
@@ -19,9 +32,9 @@ Additionally, the project includes a separate Q-Learning implementation (`Q_lear
 9. [Future Work](#future-work)  
 10. [Contributors](#contributors)  
 
----
+<br>
 
-## **Overview**
+## **✨ Overview**
 
 In a 5G network, handovers are a critical operation where user equipment (UE) switches from one cell tower (antenna) to another to maintain connectivity. Improper handovers can result in dropped connections and degraded QoS. This project models this scenario using reinforcement learning:  
 
@@ -31,9 +44,9 @@ In a 5G network, handovers are a critical operation where user equipment (UE) sw
 
 The project also includes a **benchmarking module** (`Q_learning.py`) to compare the results of the handover optimization system with a simpler, well-known reinforcement learning task, such as `MountainCar`.
 
----
+<br>
 
-## **Project Structure**
+## **🔖 Project Structure**
 
 ```plaintext
 .
@@ -56,9 +69,9 @@ The project also includes a **benchmarking module** (`Q_learning.py`) to compare
 
 ```
 
----
+<br>
 
-## **Setup and Installation**
+## **🛠️ Setup and Installation**
 
 ### Prerequisites
 
@@ -88,9 +101,9 @@ The project also includes a **benchmarking module** (`Q_learning.py`) to compare
    python Q_learning.py
    ```
 
----
+<br>
 
-## **How It Works**
+## **❓ How It Works**
 
 ### Environment Setup
 
@@ -118,9 +131,9 @@ The project also includes a **benchmarking module** (`Q_learning.py`) to compare
 - Implements Q-Learning for the `MountainCar` environment to evaluate the algorithm's adaptability and performance in a simpler, static setup.  
 - Generates comparative performance insights, highlighting the unique challenges of dynamic 5G environments.
 
----
+<br>
 
-## **Modules**
+## **🛡️ Modules**
 
 ### 1. **`agent.py`**
 Defines the Q-Learning agent responsible for:  
@@ -149,9 +162,9 @@ Generates plots for:
 ### 5. **`Q_learning.py`**
 A standalone Q-Learning implementation for benchmarking on tasks like `MountainCar`.
 
----
+<br>
 
-## **Usage**
+## **💻 Usage**
 
 1. **Run the Training Script**:  
    ```bash
@@ -166,9 +179,9 @@ A standalone Q-Learning implementation for benchmarking on tasks like `MountainC
 3. **View Plots**:  
    Analyze the generated plots in the `metrics_plots/` and `qlearning_plots/` folders for performance insights.
 
----
+<br>
 
-## **Visualization**
+## **🖼️ Visualization**
 
 Generated plots include:  
 
@@ -181,9 +194,9 @@ Generated plots include:
 From `Q_learning.py`:  
 - A single plot showing the reward progression for a classical RL task, aiding in comparing results with the 5G optimization system.
 
----
+<br>
 
-## **Key Features**
+## **⚡ Key Features**
 
 1. **Dynamic Handover Management**  
    - Models realistic 5G network scenarios with overlapping antenna coverage.
@@ -200,27 +213,28 @@ From `Q_learning.py`:
 5. **Reinforcement Learning Adaptability**  
    - Explores RL's application for both dynamic 5G problems and static environments.
 
----
+<br>
 
-## **Future Work**
+## **⏭️ Future Work**
 
 - **Multi-agent extension** for collaborative tasks.
 - **Integration of DQN** for deep reinforcement learning.
 - **Obstacle dynamics** to simulate real-world grid environments.
 
----
+<br>
 
-## **Contributors**
+## **🙋‍♂️ Contributors**
 
-- **Sanidhya Kumar**: [GitHub Profile]()
-- **Samanway Maji**: [GitHub Profile]()
-- **Shivang Bhargava**: [GitHub Profile]()
-- **Riya**: [GitHub Profile]()
-- **Anamika Sadh**: [GitHub Profile]()
-- > For contributions, reach out via [email](mailto:sanidhyakumar.31@gmail.com).
+- **Sanidhya Kumar**: [GitHub Profile](https://github.com/notsanidhyak)
+- **Samanway Maji**: [GitHub Profile](https://github.com/samhere19)
+- **Riya**: [GitHub Profile](https://github.com/notdatriya)
+- **Shivang Bhargava**: [GitHub Profile](https://github.com/shivang0203)
+- **Anamika Sadh**: [GitHub Profile](https://github.com/anasadh)
+  
+> For queries, reach out via [email](mailto:sanidhyakumar.31@gmail.com).
 
----
+<br>
 
-Feel free to reach out for further queries or discussions. Happy coding!
+Feel free to reach out for further queries or discussions. Happy coding! ❤️
 
 --- 
