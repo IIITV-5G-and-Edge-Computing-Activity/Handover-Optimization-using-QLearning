@@ -9,7 +9,7 @@ Additionally, the project includes a separate Q-Learning implementation (`Q_lear
 > Associated Video Link: [Click here](https://youtu.be/wCoyhqpwW5o)
 > <br>
 > <br>
-> Report PDF File: [Click here](https://github.com/notsanidhyak)
+> Report PDF File: [Click here](https://github.com/IIITV-5G-and-Edge-Computing-Activity/Handover-Optimization-using-QLearning)
 > 
 <br>
 
